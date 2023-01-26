@@ -15,7 +15,10 @@ background:lightsalmon;
 	background:lightyellow;
 }
 .row_3{
-	background:lightcyan;
+	background:red;
+}
+table tr td{
+	text-align:right;
 }
 table tr td:first-child{
 	text-align:left;

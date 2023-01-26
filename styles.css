@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table{
+	border-style:solid;
+	width:90vw
+}
+.head-part{
+	background:lightcoral;
+	color:white;
+}
+.row-1{
+background:lightsalmon;
+}
+.row-2{
+	background:lightyellow;
+}
+.row_3{
+	background:lightcyan;
+}

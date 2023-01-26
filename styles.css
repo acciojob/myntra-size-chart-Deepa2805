@@ -17,3 +17,6 @@ background:lightsalmon;
 .row_3{
 	background:lightcyan;
 }
+table tr td:first-child{
+	text-align:left;
+}

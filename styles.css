@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
-table{
-	border-style:solid;
+table,td,th{
+	border:1px solid black;
+	border-collapse: collapse;
+	text-align:right;
 	width:90vw
 }
 .head-part{
@@ -17,9 +19,7 @@ background:lightsalmon;
 .row-3{
 	background:lightcyan;
 }
-table tr td{
-	text-align:right;
-}
-table tr td:first-child{
+table tr td:first-child,
+table tr th{
 	text-align:left;
 }
